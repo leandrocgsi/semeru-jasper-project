@@ -4,7 +4,7 @@
 	<property name="ireport.x" value="0"/>
 	<property name="ireport.y" value="18"/>
 	<parameter name="SUBREPORT_DIR" class="java.lang.String" isForPrompting="false">
-		<defaultValueExpression><![CDATA["D:\\Work Area Training\\JasperProjectWithSubrreport\\semeru-jasper-project\\src\\main\\java\\br\\com\\semeru\\templates\\"]]></defaultValueExpression>
+		<defaultValueExpression><![CDATA["D:\\Work Area Training\\JasperProjectWithSubrreport\\semeru-jasper-project\\semeru-jasper-project\\src\\main\\java\\br\\com\\semeru\\templates\\"]]></defaultValueExpression>
 	</parameter>
 	<field name="addresses" class="java.util.List"/>
 	<field name="phones" class="java.util.List"/>

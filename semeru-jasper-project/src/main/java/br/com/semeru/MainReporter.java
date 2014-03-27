@@ -21,7 +21,7 @@ public class MainReporter {
 
     public static void main(String[] args) throws Exception {
 
-        String jrxmlPath = "D:\\Work Area Training\\JasperProjectWithSubrreport\\semeru-jasper-project\\src\\main\\java\\br\\com\\semeru\\templates\\demo.jrxml";
+        String jrxmlPath = "D:\\Work Area Training\\JasperProjectWithSubrreport\\semeru-jasper-project\\semeru-jasper-project\\src\\main\\java\\br\\com\\semeru\\templates\\demo.jrxml";
 
         InputStream inputStream = new FileInputStream(jrxmlPath);
 
